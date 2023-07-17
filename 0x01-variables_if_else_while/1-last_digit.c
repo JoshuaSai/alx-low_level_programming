@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Print the last digit of the randomly generated numbers
- * Return - Always return 0 (Success)
+ * Return: Always return 0 (Success)
  */
 int main(void)
 {
